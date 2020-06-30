@@ -32,7 +32,7 @@ new AutoComplete<T>( // T Untuk Type Class untuk menampung data
                 
                 /*
                 *
-                * Di sini data source
+                * Di sini panggil data source terus masukann ke items.add();
                 */
                 
                 

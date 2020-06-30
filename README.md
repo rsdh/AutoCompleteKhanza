@@ -49,3 +49,6 @@ new AutoComplete<T>( // T Untuk Type Class untuk menampung data
             }
         });
 ```
+
+Dan saya tidak lupa, bahawa saya terinspirasi dari hasil pencarian google di blog ini
+http://twaver.blogspot.com/2012/07/add-function-autocompletein-jtextfield.html
